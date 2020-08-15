@@ -1,0 +1,4 @@
+colorama==0.4.3
+pycreate2==0.8.0
+pyserial==3.4
+simplejson==3.17.2
