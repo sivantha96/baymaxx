@@ -1,4 +1,3 @@
 {
-    "python.formatting.provider": "black",
-    "python.pythonPath": "c:\\Users\\bayma\\Desktop\\Baymaxx\\Repo\\baymaxx\\baymaxx\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\bayma\\.conda\\envs\\baymaxx\\python.exe"
 }

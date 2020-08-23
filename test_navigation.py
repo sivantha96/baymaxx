@@ -16,6 +16,7 @@ bot.start()
 bot.full()
 
 # navigating
-bot.drive_direct(0, 100)
-time.sleep(10)
+bot.drive_direct(-40, -40)
+time.sleep(5)
 bot.drive_stop()
+# bot.close()
